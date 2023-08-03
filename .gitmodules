@@ -1,0 +1,5 @@
+[submodule "projects/project1"]
+	path = projects/project1
+	url = https://github.com/jlootensdataroots/orphanage
+[submodule "./projects/project1"]
+	branch = main-project1
