@@ -1,4 +1,5 @@
 # orphanage
+Repo to try out having git submodules that are actually orphaned branches from this repo.
 
 ## setup
 ```
